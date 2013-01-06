@@ -1,0 +1,7 @@
+public class RunInterface {
+
+	public static void main(String[] args) {
+		UserInterface runInterface = new UserInterface();	
+	}
+
+}

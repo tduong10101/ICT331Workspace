@@ -1,0 +1,6 @@
+DomesticCustomer: name Address: address City: city State: state Shipping: 2
+ImportCustomer: Tam Address: address City: city State: state Country: country Inspection: true Fumigation: false
+DomesticCustomer: Duong Address: address City: city State: state Shipping: 2
+ImportCustomer: NoX Address: address City: city State: state Country: country Inspection: true Fumigation: false
+ORDER
+DomesticCustomer: Duong Address: address City: city State: state Shipping: 2 Variety: varieties nox QuantityRequired: 100 QuantitySupplied: 50 Startdate: 5 4 2009 Enddate: 5 4 2009

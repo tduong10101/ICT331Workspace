@@ -1,0 +1,17 @@
+<?xml version=“1.0” encoding=“ISO-8859-1”?>
+<cities>
+<item>
+<city>Sydney</city>
+
+<median>33245.2</median>
+
+</item>
+</cities>
+<cities>
+<item>
+<city>Melbourne</city>
+
+<median>32334.8</median>
+
+</item>
+</cities>
